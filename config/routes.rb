@@ -1,6 +1,5 @@
 FindPie::Application.routes.draw do
   root :to => "static_pages#index"
-  get "static_pages/info"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
