@@ -6,11 +6,8 @@ gem "middleman", "~>3.0.14"
 gem "thin"
 
 group :development do
-  gem 'heroku'
+  gem 'watchr'
   gem 'rb-fsevent'
   gem 'growl_notify'
   gem 'foreman'
-
 end
-
-gem 'watchr'
