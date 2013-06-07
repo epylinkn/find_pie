@@ -1,15 +1,15 @@
-/* line 3, /opt/opensource/findpie/source/stylesheets/all.css.scss */
+/* line 3, /opt/opensource/find_pie/source/stylesheets/all.css.scss */
 body {
   padding: 60px 0;
   background: violet; }
 
-/* line 8, /opt/opensource/findpie/source/stylesheets/all.css.scss */
+/* line 8, /opt/opensource/find_pie/source/stylesheets/all.css.scss */
 #stats-box {
   margin: 0px auto;
   margin-top: 30px;
   text-align: left; }
 
-/* line 14, /opt/opensource/findpie/source/stylesheets/all.css.scss */
+/* line 14, /opt/opensource/find_pie/source/stylesheets/all.css.scss */
 #pie-container {
   background: url("../images/cheese_pizza.png") no-repeat center;
   border: 1px solid black;
@@ -17,19 +17,19 @@ body {
   width: 400px;
   margin: 0px auto;
   position: relative; }
-  /* line 22, /opt/opensource/findpie/source/stylesheets/all.css.scss */
+  /* line 22, /opt/opensource/find_pie/source/stylesheets/all.css.scss */
   #pie-container img {
     position: absolute; }
 
-/* line 27, /opt/opensource/findpie/source/stylesheets/all.css.scss */
+/* line 27, /opt/opensource/find_pie/source/stylesheets/all.css.scss */
 #toppings {
   position: absolute; }
 
-/* line 31, /opt/opensource/findpie/source/stylesheets/all.css.scss */
+/* line 31, /opt/opensource/find_pie/source/stylesheets/all.css.scss */
 #info {
   position: relative;
   height: 40px;
   line-height: 36px; }
-  /* line 36, /opt/opensource/findpie/source/stylesheets/all.css.scss */
+  /* line 36, /opt/opensource/find_pie/source/stylesheets/all.css.scss */
   #info #info-button {
     vertical-align: middle; }
